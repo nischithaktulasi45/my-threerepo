@@ -1,7 +1,7 @@
 	
 	welcome to se lab
 
-			hii welcome to spt
+	hii welcome to spt
 			
-			       hello world
+        hello world
 
